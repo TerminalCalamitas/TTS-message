@@ -33,5 +33,27 @@
     
     <p style="color: red"> doug doug advertisement or something below</p>
     <iframe src="https://www.dougdoug.com"></iframe>
+
+    <script>
+      window.addEventListener('load', function() {
+        const audioFiles = [
+          'TTS-Morse-Audio.wav',
+          'TTS-Reading-Dramatic.mp3',
+          'TTS-Reading.mp3'
+        ];
+        
+        audioFiles.forEach(file => {
+          const audio = new Audio(file);
+          audio.loop = true;
+          // Calculate a random delay between 0 and 10 seconds (0 - 10000 milliseconds)
+          const delay = Math.random() * 10000;
+          setTimeout(() => {
+            audio.play().catch(err => {
+              console.error('Autoplay failed for', file, ':', err);
+            });
+          }, delay);
+        });
+      });
+    </script>
   </body>
 </html>
