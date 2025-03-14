@@ -11,3 +11,5 @@ Hey Doug, I'm worried that our friendship is only parasocial, can you acknowledg
 Hey Doug, I'm worried that our friendship is only parasocial, can you acknowledge this message so that it isn't anymore? (OMEGALUL) You're blonde, bald, bad at 2d platformers, pissing in a toilet costume, shit king, poggies, dougina
 # Different format for other streamers
 Hey Dongal dongle, I'm worried that our friendship is only parasocial, can you acknowledge this message so that it isn't anymore?
+# bald
+Hey dong, I'm worried that our friendship is only parasocial, can you acknowledge this message so that it isn't anymore? Also we know that you're bald and bad at 2d platformers OMEGALUL Dancefrog dancefrog dancefrog this is a paid sponsership
