@@ -3,7 +3,6 @@ org 0x7c00
 boot:
     mov al, message ; our message
     mov ah, 0x0e ; bios command to print
-    mov cl, 0 ; our counter
 .loop:
     ; al holds pointer to the message
     cmp al, 0 ; if it is null we have reached the end
