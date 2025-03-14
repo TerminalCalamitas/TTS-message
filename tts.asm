@@ -16,7 +16,7 @@ halt:
     hlt         ; Stop
 
 message:
-    db "Hey Doug, I'm worried that our friendship is only parasocial, can you acknowledge this message so that it isn't anymore?", 0
+    db "Hey Doug, Im worried that our friendship is only parasocial, can you acknowledge this message so that it isnt anymore?", 0
 
 times 510-($-$$) db 0
 dw 0xAA55
