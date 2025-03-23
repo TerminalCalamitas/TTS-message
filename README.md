@@ -15,3 +15,5 @@ Hey Dongal dongle, I'm worried that our friendship is only parasocial, can you a
 Hey dong, I'm worried that our friendship is only parasocial, can you acknowledge this message so that it isn't anymore? Also we know that you're bald and bad at 2d platformers OMEGALUL Dancefrog dancefrog dancefrog this is a paid sponsership
 # Biblioteca
 Hey Doug, I'm biblioteca that our biblioteca is only biblioteca, can you biblioteca this biblioteca so that it isn't biblioteca?
+# Old english
+Hail, Doug. I am sorely afeard that our fellowship is but a shadow, void of true bond. Prithee, wouldst thou acknowledge this missive, that it may no longer be so?
