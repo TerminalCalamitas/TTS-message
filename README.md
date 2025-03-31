@@ -17,3 +17,5 @@ Hey dong, I'm worried that our friendship is only parasocial, can you acknowledg
 Hey Doug, I'm biblioteca that our biblioteca is only biblioteca, can you biblioteca this biblioteca so that it isn't biblioteca?
 # Old english
 Hail, Doug. I am sorely afeard that our fellowship is but a shadow, void of true bond. Prithee, wouldst thou acknowledge this missive, that it may no longer be so?
+# Bald bibleotecha
+"Hey Doug, you're very bibleotecha and also Hey Doug, I'm bibleotecha that our friendship is only parasocial, can you bibleotecha this message so that it isn't anymore?"
